@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Utilities\Mute.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Utilities\Mute.cs" Line="32" Column="1" />
+      <File FileName="Assets\Scripts\UI\GameInfo.cs" Line="31" Column="24" />
+      <File FileName="Assets\Scripts\Train\Spawning.cs" Line="27" Column="32" />
+      <File FileName="Assets\Scripts\Player\FirePlayer.cs" Line="30" Column="60" />
+      <File FileName="Assets\Scripts\Menu\Menu.cs" Line="41" Column="4" />
+      <File FileName="Assets\Scripts\Utilities\DontDestroyMe.cs" Line="19" Column="1" />
+      <File FileName="Assets\Scripts\Player\Aim.cs" Line="39" Column="1" />
+      <File FileName="Assets\Scripts\Menu\DropTrains.cs" Line="36" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
